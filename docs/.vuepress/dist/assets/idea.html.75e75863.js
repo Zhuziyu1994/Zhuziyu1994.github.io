@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as r}from"./app.bc592157.js";const t={};function _(a,n){return c(),r("p",null,"\u6682\u65E0\u5185\u5BB9")}var l=e(t,[["render",_],["__file","idea.html.vue"]]);export{l as default};

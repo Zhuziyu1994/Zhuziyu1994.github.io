@@ -30,7 +30,7 @@ module.exports = {
                 children: [
                     {
                         text: "Java基础",
-                        link: '/md/test',
+                        link: '/md/javase/base/base.md',
 
                     },
                     {
@@ -40,7 +40,6 @@ module.exports = {
                     }
                 ],
             },
-            // 控制元素何时被激活
             {
                 text: 'JAVA WEB',
                 children: [
@@ -52,6 +51,19 @@ module.exports = {
                         text: '前端相关',
                         link: '/md/not-foo/',
                         activeMatch: '^/foo/',
+                    },
+                ],
+            },
+            {
+                text: 'Mysql相关',
+                children: [
+                    {
+                        text: 'Mysql常见问题',
+                        link: '/md/mysql/mysql.md',
+                    },
+                    {
+                        text: 'Mysql常用命令',
+                        link: '/md/mysql/command.md',
                     },
                 ],
             },

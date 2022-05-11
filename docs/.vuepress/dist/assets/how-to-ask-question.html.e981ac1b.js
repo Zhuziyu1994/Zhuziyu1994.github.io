@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,d as s,b as a}from"./app.bc592157.js";const c={},_={id:"todo",tabindex:"-1"},r=s("a",{class:"header-anchor",href:"#todo","aria-hidden":"true"},"#",-1),d=a(" todo"),n=[r,d];function h(i,f){return o(),t("h1",_,n)}var u=e(c,[["render",h],["__file","how-to-ask-question.html.vue"]]);export{u as default};
