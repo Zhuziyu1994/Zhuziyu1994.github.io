@@ -1,0 +1,1 @@
+const t={key:"v-39b6370d",path:"/md/about/about.html",title:"todo",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652083765e3,contributors:[{name:"alan",email:"alanhuang@yeahka.com",commits:1}]},filePathRelative:"md/about/about.md"};export{t as data};

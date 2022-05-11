@@ -1,0 +1,1 @@
+const t={key:"v-0eb8ec6e",path:"/md/how-to-ask-question.html",title:"todo",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652083765e3,contributors:[{name:"alan",email:"alanhuang@yeahka.com",commits:1}]},filePathRelative:"md/how-to-ask-question.md"};export{t as data};

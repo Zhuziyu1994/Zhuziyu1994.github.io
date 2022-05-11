@@ -1,0 +1,1 @@
+const a={key:"v-c899bfb4",path:"/md/javaweb/tomcat/tomcat.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652083765e3,contributors:[{name:"alan",email:"alanhuang@yeahka.com",commits:1}]},filePathRelative:"md/javaweb/tomcat/tomcat.md"};export{a as data};

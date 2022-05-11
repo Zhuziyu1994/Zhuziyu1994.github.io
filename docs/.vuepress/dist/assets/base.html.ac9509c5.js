@@ -1,0 +1,1 @@
+const a={key:"v-03363fe6",path:"/md/javase/base/base.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652083765e3,contributors:[{name:"alan",email:"alanhuang@yeahka.com",commits:1}]},filePathRelative:"md/javase/base/base.md"};export{a as data};
